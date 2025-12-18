@@ -1,5 +1,6 @@
 # online-retail-store-database
 SQL project simulating an Online Retail Store database. Includes tables for customers, products, orders, and order details with sample data. Features queries, stored procedures, CTEs, subqueries, and triggers to manage inventory, track sales, and automate stock updates efficiently
+<img width="1024" height="1024" alt="image for online ret" src="https://github.com/user-attachments/assets/8487de5f-e653-4ef6-9ce9-96445941ef2d" />
 
 📚 Key Features:
 
